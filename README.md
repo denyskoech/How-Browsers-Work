@@ -1,2 +1,2 @@
 # How-Browsers-Work
-Rearch of how browsers work.
+Research on how web browsers work.
